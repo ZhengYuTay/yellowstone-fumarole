@@ -1,13 +1,13 @@
 {
   "name": "yellowstone-fumarole-client-example-ts",
-  "version": "3.0.0",
+  "version": "0.1.0",
   "license": "Apache-2.0",
   "author": "Triton One",
   "main": "dist/client.js",
   "description": "Yellowstone gRPC Fumarole TypeScript example",
   "homepage": "https://triton.one",
   "dependencies": {
-    "@triton-one/yellowstone-fumarole": "file:../../typescript-sdk",
+    "@triton-one/yellowstone-fumarole": "^0.2.0",
     "bs58": "^6.0.0",
     "dotenv": "^17.2.1",
     "rxjs": "^7.8.2",
